@@ -76,12 +76,12 @@ which can match the results in Table 1,2 in our original paper.
 
 #### MSRS & FMB Dataset Results
 <div align="center">
-    <img src="image/MSRS&FMB.png" width="100%" style="max-width: 1200px;" />
+    <img src="image/MSRS&FMB.jpg" width="100%" style="max-width: 1200px;" />
 </div>
 
 #### M3FD & LLVIP Scene Results
 <div align="center">
-    <img src="image/M3FD&LLVIP.png" width="100%" style="max-width: 1200px;" />
+    <img src="image/M3FD&LLVIP.jpg" width="100%" style="max-width: 1200px;" />
 </div>
 
 ## 📝 Citation
@@ -89,4 +89,5 @@ Coming soon after publication.
 
 ## 📧 Contact
 For any questions about the implementation, please feel free to open an issue.
+
 
